@@ -7,37 +7,36 @@ Which region of the brain has significant activation during the ToM task?
 ### Data Analysis
 All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.
 
+### Get data
+See: 
+
+### Environment
+* Windows11
+* Matlab R2025b
+* SPM25
+
 ### Scripts
 All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. See the scripts here: [Documents](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Documents/preprocessing)
 
 ### Analysis pipleline
-See script: tom_preprocessing_10sub
-1. motion correction
-2. slice timing correction
-3. coregister T2 to EPI
-4. coregister T1 to T2
-5. segmentation
+* Preprocessing
+Step1. motion correction
+Step2. slice timing correction
+Step3. coregister T2 to EPI
+Step4. coregister T1 to T2
+Step5. segmentation
+Step6. Dartel create SST
+Step7. Dartel normalize MNI
 
-See script: Dartel_normalize_MNI
-6. Dartel normalize MNI
+* Subject-level analysis
+Step8. first level specification
+Step9. first level estimation
+Step10. first level contrast
 
-See script: windowspath_Dartel_create_Templat
-7. Dartel create SST
+* Group-level analysis
+Step11. second level specification
+Step12. second level estimation
 
-See script: 
-8. 1st level estimation
-
-See script:
-9. 1st level specification
-
-See script:
-10. 1st level contrast
-
-See script:
-11. 2nd level estimation
-
-See script:
-12. 2nd level specification
 
 ### Outputs
 The output will be a statistical parametric mapping figure, see: 
