@@ -15,6 +15,9 @@ See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/mai
 * Matlab R2025b
 * SPM25
 
+### Repo structure
+
+
 ### Scripts
 All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. 
 See the scripts here: 
