@@ -15,7 +15,45 @@ See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/mai
 * Matlab R2025b
 * SPM25
 
-### Repo structure
+### Structure
+├──1. Command_Files/
+│   └──get_data.txt
+│ 
+├──2. Documents/
+│   └──event-related_design_example
+│   └──useful_mri_info.txt
+│
+├──3. Original_Data/
+│   └──data_structure.txt
+│   └──Step1~5
+│       └──ten_subjects_preprocessing.m
+│       └──ten_subjects_preprocessing_job.m
+│       └──for_loop_version
+│           └──tom_preprocessing_10sub.m
+│           └──tom_preprocessing_10sub_job.m
+│   └──Step6
+│       └──windowspath_Dartel_create.m
+│       └──windowspath_Dartel_create_job.m
+│   └──Step7
+│       └──Dartel_normalize_MNI.m
+│       └──Dartel_normalize_MNI_job.m
+├──4. Analysis_Data/
+    └──Step8
+        └──ten_subjects_1stlvl_spec.m
+        └──ten_subjects_1stlvl_spec_job.m
+        └──multiple_condition.m
+    └──Step9
+        └──ten_subjects_1stlvl_est.m
+        └──ten_subjects_1stlvl_est_job.m
+    └──Step10
+        └──ten_subjects_1stlvl_contrast.m
+        └──ten_subjects_1stlvl_contrast_job.m
+    └──Step11
+        └──second_lvl_spec.m
+        └──second_lvl_spec_job.m
+    └──Step12
+        └──second_lvl_est.m
+        └──second_lvl_est_job.m
 
 
 ### Scripts
