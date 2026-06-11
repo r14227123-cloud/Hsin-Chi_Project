@@ -56,10 +56,10 @@ Step12. second level estimation
 
 The output will be a statistical parametric mapping figure, see: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Documents/results%20figure)
 
-The original paper: 
+### The original paper: 
 
 B. Deen, & W.A. Freiwald, Parallel systems for social and spatial cognition reaching the cortical apex, Proc. Natl. Acad. Sci. U.S.A. 122 (44) e2520067122, https://doi.org/10.1073/pnas.2520067122 (2025).
 
-The dataset:
+### The dataset:
 
 Ben Deen and Winrich Freiwald (2022). Parallel systems for social and spatial reasoning. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds003814.v1.0.0
