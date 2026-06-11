@@ -62,4 +62,8 @@ B. Deen, & W.A. Freiwald, Parallel systems for social and spatial cognition reac
 
 ### The dataset:
 
-Ben Deen and Winrich Freiwald (2022). Parallel systems for social and spatial reasoning. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds003814.v1.0.0
+Ben Deen and Winrich Freiwald (2022). Parallel systems for social and spatial reasoning. OpenNeuro. 
+
+[Dataset](https://openneuro.org/datasets/ds003814/versions/1.0.0) doi: 
+
+doi:10.18112/openneuro.ds003814.v1.0.0
