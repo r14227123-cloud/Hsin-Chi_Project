@@ -5,6 +5,7 @@
 │   └──file_structure.txt
 │   └──event-related_design_example
 │   └──useful_mri_info.txt
+│   └──BH_presentation.public.pdf
 │
 ├──3. Original_Data/
 │   └──data_structure.txt
