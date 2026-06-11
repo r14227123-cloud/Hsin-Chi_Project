@@ -8,7 +8,7 @@ Which region of the brain has significant activation during the ToM task?
 All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.
 
 ### Get data
-See: 
+See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/Command_Files/get_data.txt)
 
 ### Environment
 * Windows11
@@ -16,7 +16,10 @@ See:
 * SPM25
 
 ### Scripts
-All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. See the scripts here: [Documents](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Documents/preprocessing)
+All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. 
+See the scripts here: 
+1. [Original_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Original_Data)
+2. [Analysis_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Analysis_Data)
 
 ### Analysis pipleline
 * Preprocessing
@@ -37,9 +40,8 @@ Step10. first level contrast
 Step11. second level specification
 Step12. second level estimation
 
-
 ### Outputs
-The output will be a statistical parametric mapping figure, see: 
+The output will be a statistical parametric mapping figure, see: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Documents/results%20figure)
 
 The original paper: 
 B. Deen, & W.A. Freiwald, Parallel systems for social and spatial cognition reaching the cortical apex, Proc. Natl. Acad. Sci. U.S.A. 122 (44) e2520067122, https://doi.org/10.1073/pnas.2520067122 (2025).
