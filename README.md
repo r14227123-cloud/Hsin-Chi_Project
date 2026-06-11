@@ -23,21 +23,33 @@ See the scripts here:
 
 ### Analysis pipleline
 * Preprocessing
+
 Step1. motion correction
+
 Step2. slice timing correction
+
 Step3. coregister T2 to EPI
+
 Step4. coregister T1 to T2
+
 Step5. segmentation
+
 Step6. Dartel create SST
+
 Step7. Dartel normalize MNI
 
 * Subject-level analysis
+
 Step8. first level specification
+
 Step9. first level estimation
+
 Step10. first level contrast
 
 * Group-level analysis
+
 Step11. second level specification
+
 Step12. second level estimation
 
 ### Outputs
