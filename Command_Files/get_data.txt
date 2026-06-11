@@ -1,0 +1,13 @@
+conda activate datalad_env
+
+cd Hsin-Chi_Project
+
+datalad clone https://github.com/OpenNeuroDatasets/ds003814.git
+
+cd ds003814
+
+datalad get sub-ident*/func/sub-ident*_task-tomloc2_run-0{1..4}_echo-2_bold.nii.gz  sub-ident*/anat/sub-ident*_run-0{1..3}_T1w.nii.gz  sub-ident*/anat/sub-ident*_run-0{1..3}_T2w.nii.gz
+
+git annex unlock
+
+find . -name "*.nii.gz" -exec gunzip {} \;
