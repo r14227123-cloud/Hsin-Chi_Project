@@ -1,0 +1,11 @@
+Dartel normalize MNI: parameters
+
+Voxel size: 2.4 2.4 2.5
+Gaussian FWHW [7 7 7] (2.4*(8/3) ~ 6.4)
+
+notes:
+
+Template_6 is in Windows
+all the u_rc files for subject 01~10 are in Windows
+all the ar_ files for subject 01~10 are in Linux
+
