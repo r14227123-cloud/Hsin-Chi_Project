@@ -1,0 +1,23 @@
+2nd level specification: parameters
+
+paired-t test
+10 pairs
+for each pair
+scans[1,2]: sub-ident01/results/con_0001.nii, sub-ident01/results/con_0002.nii (n subjects: 1~10)
+grand mean scaling: no
+ANCOVA: no
+left other settings as default
+
+derivative of 2nd level specification
+SPM.file
+images: 20 contrasts nifti file
+parameters: 2 conditions, 10 subjects
+
+2nd level estimate
+SPM.file of 2nd level specification 
+
+derivative of 2nd level estimate
+beta_0001.nii (n coefficients: 1~12)
+mask
+ResMS
+RPV

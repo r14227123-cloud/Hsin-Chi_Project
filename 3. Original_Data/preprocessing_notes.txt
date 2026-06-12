@@ -1,0 +1,15 @@
+Derivatives of preprocessing, for each subject
+
+func/  (n run: 1-4)
+rsub-ident01_task-tomloc2_run-01_echo-2_bold.nii: with realign
+arsub-ident01_task-tomloc2_run-01_echo-2_bold.nii: with slice timing after realign
+meansub-ident01_task-tomloc2_run-01_echo-2_bold.nii
+rp_sub-ident01_task-tomloc2_run-01_echo-2_bold.txt
+
+anat/  (n segment: 1-6)
+c1sub-ident01_run-02_T1w.nii
+rc1sub-ident01_run-02_T1w.nii
+mwc1sub-ident01_run-02_T1w.nii
+iy_sub-ident01_run-02_T1w.nii
+
+

@@ -1,0 +1,52 @@
+1st level specification: parameters
+
+units for design: seconds
+interscan interval: 2 (TR = 2)
+microtime resolution: 48 (48 slices)
+microtime onset: 1 (0 secs: 1, 17, 33 slice)
+experiment: event-related design
+
+multiple condition: refer to the .m script
+(Analysis_Data/ Step8. 1st_lvl_spec/)
+
+
+derivative of 1st level specification
+an SPM.mat file for each subject
+
+derivative of subject 01
+4 runs, for each run:
+-Belief
+-Photo
+-R1
+-R2
+-R3
+-R4
+-R5
+-R6
+-Constant
+
+1st level estimation: parameter
+write residuals: no (I’m not doing functional connectivity analysis)
+method: classical (maximum likelihood estimation)
+
+derivatives of 1st level estimation
+for each subject:
+-beta_0001.nii  (n coefficients: 1~36)
+-mask.nii: 
+-ResI_0001.nii (n ? : 1~64)
+-ResMS.nii: residual
+-RPV.nii: multiple comparison
+
+
+1st level contrast: parameter
+2 contrasts: Belief, Photo
+Weight vector:
+Belief: 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
+Photo: 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 
+
+derivatives of 1st level contrast
+for each subject:
+-con_0001.nii: Belief
+-con_0002.nii: Photo
+-spmT_0001.ni: Belief
+-spmT_0002.nii: Photo
