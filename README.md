@@ -8,7 +8,7 @@ Which region of the brain has significant activation during the ToM task?
 All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.
 
 ### Get data
-See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/Command_Files/get_data.txt)
+See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt)
 
 ### Environment
 * Windows11
@@ -22,8 +22,8 @@ See: [file_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/m
 ### Scripts
 All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. 
 See the scripts here: 
-1. [Original_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Original_Data)
-2. [Analysis_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Analysis_Data)
+1. [Original_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/3.%20Original_Data)
+2. [Analysis_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/4.%20Analysis_Data)
 
 ### Analysis pipleline
 * Preprocessing
@@ -58,7 +58,7 @@ Step12. second level estimation
 
 ### Outputs
 
-The output will be a statistical parametric mapping figure, see: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/Documents/results%20figure)
+The output will be a statistical parametric mapping figure, see: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/2.%20Documents/results%20figure)
 
 ### The original paper: 
 
