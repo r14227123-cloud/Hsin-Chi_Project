@@ -26,7 +26,8 @@ For the expected outcomes, I will output a Statistical Parametric Mapping figure
 
 
 ### Get data
-See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt)
+This [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt) file shows the bash command of how I get the data. The original data is very large, so I used the regex (regular expressions) to extract the specific target and filter out the rest. 
+
 
 ### Environment
 * Windows11
@@ -34,7 +35,7 @@ See: [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/mai
 * SPM25
 
 ### File tructure
-See: [file_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt)
+This [file_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt) file shows the file structure of this repository. 
 
 
 ### Scripts
