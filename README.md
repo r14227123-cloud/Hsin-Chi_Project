@@ -35,7 +35,7 @@ This [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/mai
 * SPM25
 
 ### File tructure
-This [file_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt) file shows the file structure of this repository. 
+This [file_structure.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt) file shows the file structure of this repository. 
 
 
 ### Scripts
