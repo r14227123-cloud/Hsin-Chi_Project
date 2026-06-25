@@ -78,9 +78,30 @@ Step12. second level estimation
 
 ### Outcome figures
 
-The output will be a statistical parametric mapping figure, see: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/2.%20Documents/results%20figure)
+See: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/2.%20Documents/results%20figure)
+
+This is a derivative of the whole-brain analysis with ten subjects, using a paired-sample t-test. The contrast was set as Belief > Photo. This means that the seven clusters showed greater activation during the Belief trials compared with the Photo trials.
+
+<img width="587" height="844" alt="image" src="https://github.com/user-attachments/assets/17a6c3b7-d95b-483e-83c2-77563c37a11f" />
+
+
+This figure shows the locations of the seven clusters. Four of these clusters overlap with the results reported in the original paper, while the remaining three appear to be more related to visual processing. So, what about TP and MPFC? Well, since the original paper’s example figure was based on one representative subject, I am still waiting for the author’s reply about which subject was used.
+
+<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/32c19595-bc12-4e5d-9915-58fec0d4fcee" />
+
+### Updates after the final presentation
+This figure shows the results of the ROI analysis. I used AAL atlas to examine the ROIs reported in the original paper: MPC, SFG, STS, TPJ, MPFC and TP. The value of each bar represents the average contrast value across the voxels within that ROI, which can be interpreted as an index of task-related activation. The odd-numbered bars represent the activation levels during the Belief trials for subject 1~10, whereas the even-numbered bars represent the activation levels during the Photo trials for subject 1~10. 
+
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/91c17997-6045-4bbb-b5ac-4c42fefd1fa6" />
+
+## Summary
+This is a project aimed to gain the experience of hands-on fMRI data analysis using open source data. The details of the concept-learning and problem-solving process can be referred to the [slides](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/BH_Project_2026.public.pdf). 
+
+My whole-brain analysis results from ten subjects show that supplementary motor area, postcentral gyrus, precuneus, superior frontal gyrus. middle occipital gyrus, superior temporal gyrus, inferior parietal lobe have greater activation during the ToM task. The ROI analysis shows the activation levels of six ROIs during the ToM task reported in the original paper. 
+
+However, since the original paper’s example figure was based on one representative subject, I am still waiting for the author’s reply about which subject was used.
+
 
 ### The original paper: 
 
