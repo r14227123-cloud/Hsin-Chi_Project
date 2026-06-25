@@ -88,10 +88,12 @@ The figure down below is a derivative of the whole-brain analysis with ten subje
 
 This figure down below shows the locations of the seven clusters. Four of these clusters overlap with the results reported in the original paper, while the remaining three appear to be more related to visual processing. So, what about TP and MPFC? Since the original paper’s example figure was based on one representative subject, I am still waiting for the author’s reply about which subject was used.
 
-<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/32c19595-bc12-4e5d-9915-58fec0d4fcee" />
+<img width="960" height="540" alt="{22488A9E-2FA0-48AB-9D99-574B4C26E6E5}" src="https://github.com/user-attachments/assets/d6dd6046-3c80-4ac9-8da6-7eb44b4a4a43" />
 
 ## Updates after the final presentation
-This figure shows the results of the ROI analysis. I used AAL atlas to examine the ROIs reported in the original paper: MPC, SFG, STS, TPJ, MPFC and TP. The value of each bar represents the average contrast value across the voxels within that ROI, which can be interpreted as an index of task-related activation. The odd-numbered bars represent the activation levels during the Belief trials for subject 1~10, whereas the even-numbered bars represent the activation levels during the Photo trials for subject 1~10. 
+This figure shows the results of the ROI analysis. I used AAL atlas to examine the ROIs reported in the original paper: MPC, SFG, STS, TPJ, MPFC and TP. The value of each bar represents the average contrast value across the voxels within that ROI, which can be interpreted as an index of task-related activation. 
+
+The odd-numbered bars represent the activation levels during the Belief trials for subject 1~10, whereas the even-numbered bars represent the activation levels during the Photo trials for subject 1~10. 
 
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/91c17997-6045-4bbb-b5ac-4c42fefd1fa6" />
