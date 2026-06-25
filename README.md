@@ -93,7 +93,7 @@ This figure down below shows the locations of the seven clusters. Four of these 
 ## Updates after the final presentation
 This figure shows the results of the ROI analysis. I used AAL atlas to examine the ROIs reported in the original paper: MPC, SFG, STS, TPJ, MPFC and TP. The value of each bar represents the average contrast value across the voxels within that ROI, which can be interpreted as an index of task-related activation. 
 
-The odd-numbered bars represent the activation levels during the Belief trials for subject 1~10, whereas the even-numbered bars represent the activation levels during the Photo trials for subject 1~10. 
+The odd-numbered bars represent the activation levels during the Belief trials for subject 1-10, whereas the even-numbered bars represent the activation levels during the Photo trials for subject 1-10. 
 
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/91c17997-6045-4bbb-b5ac-4c42fefd1fa6" />
