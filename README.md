@@ -99,12 +99,11 @@ The odd-numbered bars represent the activation levels during the Belief trials f
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/91c17997-6045-4bbb-b5ac-4c42fefd1fa6" />
 
 ## Summary
-This is a project aimed to gain the experience of hands-on fMRI data analysis using open source data. The details of the concept-learning and problem-solving process can be referred to the [slides](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/BH_Project_2026.public.pdf). 
+This project aims to gain hands-on experience with fMRI data analysis using open-source data. The details of the concept-learning and problem-solving process are provided in the [slides](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/BH_Project_2026.public.pdf). 
 
-My whole-brain analysis results from ten subjects show that supplementary motor area, postcentral gyrus, precuneus, superior frontal gyrus. middle occipital gyrus, superior temporal gyrus, inferior parietal lobe have greater activation during the ToM task. The ROI analysis shows the activation levels of six ROIs during the ToM task reported in the original paper. 
+The whole-brain analysis results from ten subjects showed greater activation during the ToM task in several regions, including the supplementary motor area, postcentral gyrus, precuneus, superior frontal gyrus, middle occipital gyrus, superior temporal gyrus, and inferior parietal lobule.
 
-However, since the original paper’s example figure was based on one representative subject, I am still waiting for the author’s reply about which subject was used.
-
+The ROI analysis further examined the activation levels of six ROIs reported in the original paper during the ToM task. However, since the example figure in the original paper was based on one representative subject, I am still waiting for the author’s reply to confirm which subject was used.
 
 ### The original paper: 
 
