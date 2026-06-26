@@ -5,7 +5,12 @@
 │   └──file_structure.txt
 │   └──event-related_design_example
 │   └──useful_mri_info.txt
-│   └──BH_presentation.public.pdf
+│   └──BH_Project_2026.public.pdf
+│   └──results_figure
+│       └──significantlevelchange_54_001.png
+│       └──significantlevelchange_54_002.png
+│       └──Whole_brain_analysis.png
+│       └──ROI_analysis.jpg
 │
 ├──3. Original_Data/
 │   └──data_structure.txt
@@ -21,6 +26,7 @@
 │   └──Step7
 │       └──Dartel_normalize_MNI.m
 │       └──Dartel_normalize_MNI_job.m
+│ 
 ├──4. Analysis_Data/
     └──Step8
         └──ten_subjects_1stlvl_spec.m
