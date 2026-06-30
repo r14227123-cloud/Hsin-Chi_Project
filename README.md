@@ -28,7 +28,7 @@ For the expected outcomes, I will output a figure to visualize the areas that ha
  <u>download the data → preprocessing → subject-level analysis → group-level analysis → ROI analysis</u>
 
 ### File tructure
-This [file_structure.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt) file shows the file structure of this repository. 
+This [repo_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/4.%20Documents/repo_structure.txt) file shows the file structure of this repository. 
 
 ### User guide
 To replicate the results of my analysis, you can just follow the <u>sequence</u> of the folder.
