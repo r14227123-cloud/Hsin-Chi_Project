@@ -40,31 +40,15 @@ To replicate the results of my analysis, you can just follow the <u>sequence</u>
 
 * This [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt) file shows the bash command of how I get the data. The original data is very large, so I used the regex (regular expressions) to extract the specific target and filter out the rest. 
 
-### Data Analysis
-All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.
-
-
-
-
-
-
-
 ### Environment
 * Windows11
 * Matlab R2025b
 * SPM25
+* ROI analysis Toolbox: MarsBaR
 
-
-
-
-### Scripts
-All the preprocessing and analysis are conducted using SPM's GUI with batch and scripts saved. 
-See the scripts here: 
-1. [Original_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/3.%20Original_Data)
-2. [Analysis_Data](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/4.%20Analysis_Data)
+*All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.*
 
 ### Analysis pipleline
-preprocessing → subject-level analysis → group-level analysis → ROI analysis
 
 * Preprocessing
 
@@ -98,7 +82,7 @@ Step12. second level estimation
 
 ### Outcome figures
 
-See: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/2.%20Documents/results%20figure)
+See: [results_figure](https://github.com/r14227123-cloud/Hsin-Chi_Project/tree/main/4.%20Documents/results%20figure)
 
 The figure down below is a derivative of the whole-brain analysis with ten subjects, using a paired-sample t-test. The contrast was set as Belief > Photo. This means that the seven clusters showed greater activation during the Belief trials compared with the Photo trials.
 
