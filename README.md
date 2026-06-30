@@ -31,7 +31,14 @@ For the expected outcomes, I will output a figure to visualize the areas that ha
 This [file_structure.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/2.%20Documents/file_structure.txt) file shows the file structure of this repository. 
 
 ### User guide
-To replicate the results of my analysis, you can just follow the sequence of the folder.
+To replicate the results of my analysis, you can just follow the <u>sequence</u> of the folder.
+
+---
+
+### Get data
+* Understand the structure of the original data: [data_structure](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/data_structure.txt)
+
+* This [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt) file shows the bash command of how I get the data. The original data is very large, so I used the regex (regular expressions) to extract the specific target and filter out the rest. 
 
 ### Data Analysis
 All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM with `.m` script provided.
@@ -39,8 +46,7 @@ All the fMRI data preprocessing and analysis are conducted in Matlab’s SPM wit
 
 
 
-### Get data
-This [get_data.txt](https://github.com/r14227123-cloud/Hsin-Chi_Project/blob/main/1.%20Command_Files/get_data.txt) file shows the bash command of how I get the data. The original data is very large, so I used the regex (regular expressions) to extract the specific target and filter out the rest. 
+
 
 
 ### Environment
